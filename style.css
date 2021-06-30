@@ -1,0 +1,20 @@
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.container .head{
+    background-color: #e3f2fd;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.carousel-item .car{
+    max-height: 87vh;
+    object-fit: cover;
+}
+.info{
+    margin-top: 5%;
+}
+.info h2{
+    font-size: x-large;
+    font-weight: bold;
+}
